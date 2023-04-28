@@ -4,30 +4,31 @@ importing tasks and prioritizing tasks in a user-friendly manner.
 See [The Wiki](https://github.com/SCCapstone/Janus/wiki/Design) for more details.
 
 ## External Requirements 
-In order to build this project, you will have to install:
+In order to build and modify this project, you will have to install:
 [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwwL6aBhBlEiwADycBIOz3YIYs4PJmKeNib_s6k3JMAbtTplALm8hcMsxh7oyoLt05ShGCgxoCAYQQAvD_BwE&gclsrc=aw.ds)
 
 ## Setup
-TBD
+To install the APK to an Android device from the terminal: adb install -path to apk-
 
 ## Running
-Run via Android Studio emulator
+Run via Android Studio emulator by downloading the source code and opening in Android Studio 
+
+OR 
+
+Click the 'Janus' icon to open the app after installing the APK.
 
 # Deployment
-.apk Distribution
+Download the .apk from our v1.0 release to an Android phone.
 
 # Testing
 To run unit tests for a class, open its related test class in Android Studio in "Janus/app/src/test/java/com/example/janus".
 
-Behavioral tests are located in "Janus/app/src/androidTest/java/com/example/janus".
+Additionally, behavioral tests are located in "Janus/app/src/androidTest/java/com/example/janus".
 
 When the test class is open in Android Studio, click the green run button next to the test you'd like to run.
 
 ## Testing Technology
 Android Studio Pixel_3a_API_33_x86_64
-
-## Running Tests
-TBD
 
 # Authors
 
